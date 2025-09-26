@@ -10,6 +10,7 @@ CCTV-7
 CCTV-8
 CCTV-9
 CCTV-10
+CCTV10HD
 CCTV-11
 CCTV-12
 CCTV-13
@@ -17,6 +18,14 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
+CCTV高尔夫网球
+足球频道
+足球
+CGTV纪录片
+全纪实
+上视纪实
+
+
 
 📡卫视频道,#genre#
 浙江卫视
