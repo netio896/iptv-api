@@ -1,30 +1,27 @@
 📺央视频道,#genre#
+CCTV-1 综合
+CCTV-2 财经
+CCTV-3 综艺
+CCTV-4 中文国际
+CCTV-5 体育
+CCTV-5+ 体育赛事
+CCTV-6 电影
+CCTV-7 国防军事
+CCTV-8 电视剧
+CCTV-9 纪录
+CCTV-10 科教
+CCTV-11 戏曲
+CCTV-12 社会与法
+CCTV-13 新闻
+CCTV-14 少儿
+CCTV-15 音乐
+CCTV-16 奥林匹克
+CCTV-17 农业农村
 凤凰中文
-凤凰卫视中文台
+凤凰资讯
 凤凰香港
-CCTV-1
-CCTV-2
-CCTV-3
-CCTV-4
-CCTV-5
-CCTV-5+
-CCTV-6
-CCTV-7
-CCTV-8
-CCTV-9
-CCTV-10
-CCTV10HD
-CCTV-11
-CCTV-12
-CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
-CCTV高尔夫网球
-足球频道
-足球
-CGTV纪录片
+北京纪实科教
+CGTN 纪录片
 全纪实
 上视纪实
 
@@ -41,5 +38,65 @@ CGTV纪录片
 江苏卫视
 江西卫视
 山东卫视
-CGTV纪录片
+广东卫视
+深圳卫视
+四川卫视
+陕西卫视
+
+🎬电影频道,#genre#
+CHC家庭影院
+CHC动作电影
+CHC影迷电影
+重温经典
+新片放映厅
+高清大片
+经典香港电影
+天映经典
+天映电影
+
+⚽体育频道,#genre#
+五星体育
+足球频道
+咪咕体育
+NBA TV
 CCTV高尔夫网球
+体坛名栏汇
+
+👶少儿频道,#genre#
+卡酷少儿
+优漫卡通
+嘉佳卡通
+经典动画大集合
+
+🏙地方频道,#genre#
+北京影视
+北京文艺
+北京财经
+北京生活
+北京新闻
+北京体育休闲
+河南都市
+河南新闻
+河南民生
+河南电视剧
+江苏综艺
+江苏影视
+南京新闻综合
+南京教育
+徐州新闻综合
+南通新闻综合
+
+🌏港澳台/国际频道,#genre#
+翡翠台
+无线新闻
+TVB星河
+明珠台
+Astro AOD
+Astro AEC
+Astro 欢喜
+Sky Sports
+Bein Sports
+ESPN
+HBO
+Discovery Channel
+Nat Geo Wild
