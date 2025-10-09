@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-09 10:47:50,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
+2025-10-09 17:19:15,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
 
 📺央视频道,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$订阅源
@@ -17,25 +17,22 @@
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143$订阅源
 北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
 北京卫视,https://cc06.tv12.xyz/27.m3u8$订阅源
-北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
-北京卫视,https://smart.pendy.dpdns.org/Smart.php?id=beijing$订阅源
 湖北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010057$订阅源
 湖北卫视,https://cc06.tv12.xyz/50.m3u8$订阅源
-湖北卫视,https://smart.pendy.dpdns.org/Smart.php?id=hubei$订阅源
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391$订阅源
 安徽卫视,https://cc06.tv12.xyz/26.m3u8$订阅源
 东方卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010054$订阅源
-东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
 东方卫视,https://jzb.wwkejishe.top/?id=597$订阅源
+东方卫视,https://cc06.tv12.xyz/37.m3u8$订阅源
 海南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010083$订阅源
-海南卫视,https://cc06.tv12.xyz/93.m3u8$订阅源
 海南卫视,https://jzb.wwkejishe.top/?id=600$订阅源
+海南卫视,https://cc06.tv12.xyz/93.m3u8$订阅源
 河北卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010101$订阅源
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
+河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河北卫视,https://cc06.tv12.xyz/51.m3u8$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
-河北卫视,https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8$订阅源
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480$订阅源
 河南卫视,https://cc06.tv12.xyz/49.m3u8$订阅源
 江苏卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010059$订阅源
@@ -43,32 +40,27 @@
 江西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010060$订阅源
 江西卫视,https://cc06.tv12.xyz/62.m3u8$订阅源
 山东卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010066$订阅源
+山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
+山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 山东卫视,https://cc06.tv12.xyz/101.m3u8$订阅源
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
-山东卫视,http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8$订阅源
 广东卫视,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000520$订阅源
 广东卫视,https://cc06.tv12.xyz/43.m3u8$订阅源
 深圳卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010068$订阅源
 深圳卫视,https://cc06.tv12.xyz/108.m3u8$订阅源
-深圳卫视,https://smart.pendy.dpdns.org/Smart.php?id=shenzhen$订阅源
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338$订阅源
 四川卫视,https://cc06.tv12.xyz/99.m3u8$订阅源
 陕西卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010113$订阅源
 陕西卫视,https://cc06.tv12.xyz/106.m3u8$订阅源
 
 🎬电影频道,#genre#
-CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
-CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8adbb107fcdc9993&tm=1757355490&token=072f4527703a45daa10a910c53fd653d5df5967341cf62fd859165a75cc3b6f2ae98138455253d9c9ac756a91e35dab648886b61f038012df542942ca2502a10bbd4d0abfb15d675d25435f808$订阅源
 CHC家庭影院,https://mgtv.ottiptv.cc/mg/644368373.m3u8?sign=bda539eec2bb0ede8adbb107fcdc9993&tm=1757355490&token=072f4527703a45daa10a910c53fd653d5df5967341cf62fd859165a75cc3b6f2ae98138455253d9c9ac756a91e35dab648886b61f038012df542942ca2502a10bbd4d0abfb15d675d25435f808$订阅源
-CHC动作电影,http://eastscreen.tv/ooooo.php$订阅源
+CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
+CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
 CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?sign=ae388878457cfa64d2cbf942fa5a7ca1&tm=1757355490&token=ef4e4e517ca5015200acc65759c0f6b7f6f91eb4667c2c1b4228a85639e2c822758f59c31d0e0e0020d45446b9fd1fffebb2c71df0745493ce4c06f11a015656ac64b97cc81bfe0773f54b5024$订阅源
+CHC动作电影,http://eastscreen.tv/ooooo.php$订阅源
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2$订阅源
 天映经典,https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv$订阅源
-天映经典,https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2$订阅源
-天映经典,https://smt.1789.dpdns.org/smt3.2.1.php?id=Celestial2$订阅源
-天映电影,https://cdn9.163189.xyz/smt1.1.php?id=Celestial$订阅源
-天映电影,https://cdn9.163189.xyz/smt1.1.php?id=Celestial$订阅源
 
 ⚽体育频道,#genre#
 五星体育,https://other.ottiptv.cc/wxty.m3u8$订阅源
@@ -78,8 +70,6 @@ CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?sign=ae388878457cfa64d
 优漫卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118$订阅源
 
 🏙地方频道,#genre#
-北京新闻,https://ls.qingting.fm/live/339/64k.m3u8$订阅源
-北京新闻,https://ls.qingting.fm/live/339/64k.m3u8$订阅源
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8$订阅源
 北京新闻,https://brtv-radiolive.rbc.cn/alive/fm945.m3u8$订阅源
 江苏影视,https://mgtv.ottiptv.cc/migu/626064697.m3u8?migutoken=6508bc5fae9f621ed6ec72d39eb7f60ab52c4b412a5ee7f5b612640ecccbde1f9584f0a97aebc090cb58f73e9e079ced87b059526a6614b5a9ad5a23ff4863d36adcc1ed699583e058fac3330e$订阅源
@@ -90,9 +80,5 @@ CHC动作电影,https://mgtv.ottiptv.cc/mg/644368714.m3u8?sign=ae388878457cfa64d
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f$订阅源
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
 翡翠台,https://mytv.cdn.loc.cc/o12.php?id=fct$订阅源
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
-翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn$订阅源
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe$订阅源
 明珠台,https://mytv.cdn.loc.cc/o12.php?id=mzt$订阅源
-明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn$订阅源
-HBO,https://smart.pendy.dpdns.org/Smart.php?id=Hbo$订阅源
