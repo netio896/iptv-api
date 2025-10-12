@@ -1,15 +1,15 @@
 🕘️更新时间,#genre#
-2025-10-12 05:00:12,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
+2025-10-12 17:02:51,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
 
 📺央视频道,#genre#
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40$订阅源
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$订阅源
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$订阅源
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$订阅源
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv$订阅源
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8$订阅源
 凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8$订阅源
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8$订阅源
 凤凰资讯,http://zqh2333.top:2222/rtp/239.93.24.4:2191$订阅源
@@ -26,42 +26,37 @@
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
-安徽卫视,http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-安徽卫视,http://116.128.242.83:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8$订阅源
 东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-东方卫视,http://pa.kuangdeng.top:8081/hls/26/index.m3u8$订阅源
-东方卫视,http://pa.kuangdeng.top:8081/hls/26/index.m3u8$订阅源
+东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
 河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 河北卫视,http://pa.kuangdeng.top:8081/hls/29/index.m3u8$订阅源
-河北卫视,http://139.129.231.228/rtp/239.21.1.168:5002$山东电信组播源-cache:139.129.231.228-组播源
-河北卫视,http://139.129.231.228/rtp/239.21.1.168:5002$山东电信组播源-cache:139.129.231.228-组播源
+河北卫视,http://pa.kuangdeng.top:8081/hls/29/index.m3u8$订阅源
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140$订阅源
 河南卫视,http://223.167.245.215:8001/rtp/239.45.0.3:5140$订阅源
-河南卫视,http://139.129.231.228/rtp/239.21.2.37:5002$山东电信组播源-cache:139.129.231.228-组播源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8$订阅源
-江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 江西卫视,http://203.205.191.53/yun-live.jxtvcn.com.cn/live-jxtv/tv_jxtv1.m3u8$订阅源
+江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
 江西卫视,http://116.128.242.83:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 山东卫视,http://116.128.242.83:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 山东卫视,http://pa.kuangdeng.top:8081/hls/23/index.m3u8$订阅源
-山东卫视,http://139.129.231.228/rtp/239.21.1.87:5002$山东电信组播源-cache:139.129.231.228-组播源
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4$订阅源
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0$订阅源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 深圳卫视,http://38.64.72.148:80/hls/modn/list/4007/playlist.m3u8$订阅源
 深圳卫视,http://116.128.242.83:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-深圳卫视,http://139.129.231.228/rtp/239.21.1.93:5002$山东电信组播源-cache:139.129.231.228-组播源
+深圳卫视,http://61.184.46.85:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+深圳卫视,http://61.184.46.85:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
 四川卫视,http://116.128.242.83:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-四川卫视,http://139.129.231.228/rtp/239.21.2.15:5002$山东电信组播源-cache:139.129.231.228-组播源
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8$订阅源
+四川卫视,http://222.169.85.8:9901/tsfile/live/0123_1.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
-陕西卫视,http://ygbh.site/php/bfgd.php?id=114$订阅源
-陕西卫视,http://ygbh.site/php/bfgd.php?id=114$订阅源
-陕西卫视,http://139.129.231.228/rtp/239.21.1.30:5002$山东电信组播源-cache:139.129.231.228-组播源
+陕西卫视,http://219.146.95.58:59902/tsfile/live/0136_1.m3u8$订阅源
+陕西卫视,http://219.146.95.58:59902/tsfile/live/0136_1.m3u8$订阅源
 
 🎬电影频道,#genre#
 CHC动作电影,https://isus.cc/php/huya.php?id=11602077$订阅源
@@ -73,8 +68,6 @@ NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$订阅源
 NBA TV,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8$订阅源
 
 👶少儿频道,#genre#
-优漫卡通,http://139.129.231.228/rtp/239.21.1.50:5002$山东电信组播源-cache:139.129.231.228-组播源
-嘉佳卡通,http://139.129.231.228/rtp/239.21.2.5:5002$山东电信组播源-cache:139.129.231.228-组播源
 
 🏙地方频道,#genre#
 北京影视,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv4_1/index.m3u8?adapt=0&BR=audio$订阅源
