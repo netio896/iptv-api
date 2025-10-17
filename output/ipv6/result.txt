@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-17 05:08:34,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
+2025-10-17 17:15:17,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
 
 📺央视频道,#genre#
 CCTV-1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$订阅源
@@ -508,9 +508,9 @@ CHC家庭影院,http://gat.bkpcp.top/ymg.php?id=jtyy$订阅源
 CHC家庭影院,http://goo.bkpcp.top/mg/jtyy$订阅源
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2$订阅源
 CHC家庭影院,http://eastscreen.tv/ooooo.php$订阅源
+CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.ctv$订阅源
 CHC家庭影院,http://sport.pendy.dpdns.org/migu/644368373?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA$订阅源
 CHC家庭影院,https://migu.188766.xyz/?migutoken=879f9eb109bb9aeaeac41724c33201ef&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy$订阅源
-CHC家庭影院,https://mgtv.ottiptv.cc/migu/644368373.m3u8?migutoken=02f6073a65cfa4b76b8198be1bbc271ad8399a5a7eba28b6d2b5a1fd269162f4e5d78202d5515f6a21832743887f1e19f9c93e34c348532e77d8b083727e41097fb2ee9c27f1606dea802ad3d5$订阅源
 CHC动作电影,http://z.b.bkpcp.top/m.php$订阅源
 CHC动作电影,http://goo.bkpcp.top/mg/dzdy$订阅源
 CHC动作电影,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226329/1.m3u8$订阅源
