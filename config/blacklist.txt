@@ -1,4 +1,25 @@
 # 这是接口黑名单列表，符合关键字的接口将被拦截，一个关键字一行
 # This is the interface blacklist list, the interface matching the keyword will be blocked, one keyword line
+# 常见公共源黑名单
 /audio/
+freetv.top
 www.freetv.top
+iptv.diyp.site
+ttkx.cc
+ottiptv.cc
+mgtv.ottiptv.cc
+aliyunlive.com
+iptv6k.com
+iptv666.net
+iptv99.com
+cctvcn.cc
+akstream.net
+bestiptv.cc
+freeiptv.online
+playtv.cc
+iptvfree.live
+iptv-org.github.io
+iptvcat.com
+mytvsuper.xyz
+99itv.cc
+hdtv6k.cc
