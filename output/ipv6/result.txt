@@ -1,16 +1,35 @@
 🕘️更新时间,#genre#
-2025-11-26 17:07:32,https://cdn3.163189.xyz/163189/cctv13$订阅源
+2025-11-27 05:06:04,https://live.chinacert.cftest5.cn/mg/?id=631780532$订阅源
 
 📺央视频道,#genre#
+CCTV-2,https://live.chinacert.cftest5.cn/mg/?id=631780532$订阅源
+CCTV-2,https://live.chinacert.cftest5.cn/mg/?id=631780532$订阅源
+CCTV-3,https://live.chinacert.cftest5.cn/mg/?id=624878271$订阅源
+CCTV-4,https://live.chinacert.cftest5.cn/mg/?id=631780421$订阅源
+CCTV-5,https://live.chinacert.cftest5.cn/mg/?id=641886683$订阅源
+CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773$订阅源
+CCTV-6,https://live.chinacert.cftest5.cn/mg/?id=624878396$订阅源
+CCTV-7,https://live.chinacert.cftest5.cn/mg/?id=673168121$订阅源
+CCTV-8,https://live.chinacert.cftest5.cn/mg/?id=624878356$订阅源
+CCTV-9,https://live.chinacert.cftest5.cn/mg/?id=673168140$订阅源
+CCTV-10,https://live.chinacert.cftest5.cn/mg/?id=624878405$订阅源
+CCTV-11,https://live.chinacert.cftest5.cn/mg/?id=667987558$订阅源
+CCTV-12,https://live.chinacert.cftest5.cn/mg/?id=673168185$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13$订阅源
+CCTV-13,https://live.chinacert.cftest5.cn/mg/?id=608807423$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
+CCTV-14,https://live.chinacert.cftest5.cn/mg/?id=624878440$订阅源
+CCTV-15,https://live.chinacert.cftest5.cn/mg/?id=673168223$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
+CCTV-17,https://live.chinacert.cftest5.cn/mg/?id=673168256$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
+凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
+凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 
 💰央视付费频道,#genre#
@@ -19,26 +38,40 @@ CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d
 风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8$订阅源
 
 📡卫视频道,#genre#
+广东卫视,https://live.chinacert.cftest5.cn/mg/?id=608831231$订阅源
+湖北卫视,https://live.chinacert.cftest5.cn/mg/?id=947472496$订阅源
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8$订阅源
+东方卫视,https://live.chinacert.cftest5.cn/mg/?id=651632648$订阅源
 东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8$订阅源
+东南卫视,https://live.chinacert.cftest5.cn/mg/?id=849116810$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+海南卫视,https://live.chinacert.cftest5.cn/mg/?id=947472502$订阅源
+河南卫视,https://live.chinacert.cftest5.cn/mg/?id=790187291$订阅源
+吉林卫视,https://live.chinacert.cftest5.cn/mg/?id=947472500$订阅源
+江苏卫视,https://live.chinacert.cftest5.cn/mg/?id=623899368$订阅源
+江西卫视,https://live.chinacert.cftest5.cn/mg/?id=783847495$订阅源
+辽宁卫视,https://live.chinacert.cftest5.cn/mg/?id=630291707$订阅源
+青海卫视,https://live.chinacert.cftest5.cn/mg/?id=947472506$订阅源
+陕西卫视,https://live.chinacert.cftest5.cn/mg/?id=738910838$订阅源
 
 🌟4K8K频道,#genre#
 
 🏠地方频道,#genre#
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
-大湾区卫视,https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn$订阅源
-大湾区卫视,https://smart.pendy.dpdns.org/Smart.php?id=nanfang_twn$订阅源
+大湾区卫视,https://live.chinacert.cftest5.cn/mg/?id=608917627$订阅源
 
 ⚽体育频道,#genre#
+CCTV-5,https://live.chinacert.cftest5.cn/mg/?id=641886683$订阅源
+CCTV-5+,https://live.chinacert.cftest5.cn/mg/?id=641886773$订阅源
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
 纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8$订阅源
 精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8$订阅源
 风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8$订阅源
 
 🎬电影频道,#genre#
+CHC动作电影,https://live.chinacert.cftest5.cn/mg/?id=644368714$订阅源
 NewTV动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 NewTV动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8$订阅源
@@ -59,6 +92,7 @@ NewTV动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 🎯百视通频道,#genre#
 
 🔍求索&其它,#genre#
+财富天下,https://live.chinacert.cftest5.cn/mg/?id=956923159$订阅源
 
 🧸少儿频道,#genre#
 海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
@@ -69,3 +103,4 @@ NewTV动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 🎮游戏频道,#genre#
 
 🎵音乐频道,#genre#
+CCTV-15,https://live.chinacert.cftest5.cn/mg/?id=673168223$订阅源
