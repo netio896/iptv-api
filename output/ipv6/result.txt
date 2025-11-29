@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-29 17:03:10,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
+2025-11-30 05:05:08,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-6,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
@@ -11,9 +11,9 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
 CCTV-16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
 凤凰资讯,https://cdn6.101.qzz.io/163189/fhzx$订阅源
+凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
+凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,https://cdn6.101.qzz.io/163189/fhhk$订阅源
-凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
-凤凰香港,http://r.jdshipin.com/yDoTN$订阅源
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8$订阅源
 
 💰央视付费频道,#genre#
