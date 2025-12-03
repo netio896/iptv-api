@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-03 05:05:38,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
+2025-12-03 17:08:57,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
 
 📺央视频道,#genre#
 CCTV-6,https://epg.pw/stream/753fe6b20478c17a39f0c17d3c8d98a74cd5890a6e40f4ce011380f2dd185285.m3u8$订阅源
@@ -67,6 +67,8 @@ NewTV动作电影,http://eastscreen.tv/ooooo.php?id=chcdz$订阅源
 🔍求索&其它,#genre#
 
 🧸少儿频道,#genre#
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
+海绵宝宝,https://live.metshop.top/douyu/3949681$订阅源
 漫画解说,https://www.goodiptv.club/douyu/5907076$订阅源
 
 🎮游戏频道,#genre#
