@@ -1,7 +1,10 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
-https://raw.githubusercontent.com/xiaoyan-io/ipptvv/refs/heads/master/tv/iptv4.txt
+#https://raw.githubusercontent.com/xiaoyan-io/ipptvv/refs/heads/master/tv/iptv4.txt
 https://raw.githubusercontent.com/Guovin/iptv-database/master/result.txt
-http://httop.top/iptv.m3u
-https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 
+#https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+https://raw.githubusercontent.com/netio896/iptvapi/refs/heads/master/config/bbxx_filtered.m3u
+https://iptv-org.github.io/iptv/categories/news.m3u
+https://iptv.catvod.com/tv.m3u
+http://xhztv.top/new.txt
