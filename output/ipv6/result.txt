@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-04 00:53:40,https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1$订阅源
+2026-01-04 04:53:01,https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1$订阅源
 
 📺央视频道,#genre#
 CCTV-5+,https://migu.188766.xyz/?migutoken=28a852d7ffcb5f5b43b1d944afd198eb&id=CCTV5p&pp=1$订阅源
@@ -80,30 +80,4 @@ CETV-4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CE
 江苏卫视,https://stream1.freetv.fun/0649ab465998e527a93053f995b4a2ccd9ecb2a7b1eb05653f4d3a6033383fe2.m3u8$订阅源
 江苏卫视,https://migu.188766.xyz/?migutoken=4d38ea7f558d56a2649928a8ce151b38&id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86&type=yy$订阅源
 
-🎬电影频道,#genre#
-CHC家庭影院,https://stream1.freetv.fun/chcjia-ting-ying-yuan-1.ctv$订阅源
-CHC家庭影院,https://migu.188766.xyz/?migutoken=6c4b693c21cc4d2a3dbc9e44c8d06019&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy$订阅源
-CHC动作电影,https://stream1.freetv.fun/chcdong-zuo-dian-ying-4.ctv$订阅源
-CHC动作电影,https://migu.188766.xyz/?migutoken=5f7ddbc144aaa6a046ced38913096c20&id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1&pp=1$订阅源
-CHC动作电影,https://iptv.catvod.com/live.php?id=CHC%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1$订阅源
-
 🔍求索&其它,#genre#
-农业致富,http://iptv.666230.xyz/iptv/bjyd.php/6304$订阅源
-中国教育电视台1,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
-中国教育电视台1,https://stream1.freetv.fun/ipv6-cetv1-8.m3u8$订阅源
-中国教育电视台4,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy$订阅源
-中国教育电视台4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2025101308005432c372e8df3d498bbaffe8c67b9b4c48&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251013080054&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.88&SecurityKey=20251013080054&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1cf74746ad7500a9737056f3ad692803&ddCalcu=310ce8f127394067d4a63afd675500703a79$订阅源
-中国教育1台,https://migu.188766.xyz/?migutoken=a55dadc35d37e3e168faf8268cc6fa97&id=CETV1&type=yy$订阅源
-中国教育1台,https://stream1.freetv.fun/ipv6-cetv1-8.m3u8$订阅源
-中国教育2台,https://migu.188766.xyz/?migutoken=98daa3ba4c81372351b73d9075023b9b&id=CETV2&type=yy$订阅源
-中国教育4台,https://migu.188766.xyz/?migutoken=d5d19d868e1df41e984866fc7ca15071&id=CETV4&type=yy$订阅源
-中国教育4台,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn=2025101308005432c372e8df3d498bbaffe8c67b9b4c48&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20251013080054&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.88&SecurityKey=20251013080054&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=1cf74746ad7500a9737056f3ad692803&ddCalcu=310ce8f127394067d4a63afd675500703a79$订阅源
-中国天气,http://gslbmgsplive.miguvideo.com/migu/kailu/zgtq/51/20251103/index.m3u8?msisdn=202511080800560889db55c56f44deb01de0745e3aa74d&mdspid=&spid=600697&netType=0&sid=5910022296&pid=2028597139&timestamp=20251108080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=959986621&ParentNodeID=-99&assertID=5910022296&client_ip=106.13.250.83&SecurityKey=20251108080056&promotionId=&mvid=5900006772&mcid=500020&playurlVersion=WX-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=25038cc6f41f99d6cec3d914ed67a6c6&ddCalcu=62c5e600a397806cdce64f1491df39c9edc6$订阅源
-中国天气,https://iptv.catvod.com/live.php?id=%E4%B8%AD%E5%9B%BD%E5%A4%A9%E6%B0%94$订阅源
-中国天气,http://iptv.666230.xyz/iptv/sxg.php/zgqx_4000$订阅源
-财富天下,https://migu.188766.xyz/?migutoken=5fb9ea4e80c4a3ebfb66f0251ddf14ac&id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B&type=yy$订阅源
-财富天下,http://gslbmgsplive.miguvideo.com/migu/kailu/cftx/51/20250804/index.m3u8?msisdn=20251013080053130df6a7755f4551937d0216497e07ca&mdspid=&spid=600697&netType=0&sid=5910022193&pid=2028597139&timestamp=20251013080053&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923159&ParentNodeID=-99&assertID=5910022193&client_ip=106.13.250.88&SecurityKey=20251013080053&promotionId=&mvid=5900006715&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=9ae94ccdcc142ba246668b33418928f8&ddCalcu=89fae8e12969408c1c4d3c3cb184626b6a42$订阅源
-财富天下,https://iptv.catvod.com/live.php?id=%E8%B4%A2%E5%AF%8C%E5%A4%A9%E4%B8%8B$订阅源
-财富天下,http://iptv.666230.xyz/iptv/sxg.php/cftx_4000$订阅源
-聚鲨环球精选,http://iptv.666230.xyz/iptv/bjyd.php/6345$订阅源
-漫游世界,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/6000000003000028434/index.m3u8?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=YanG-1989$订阅源
