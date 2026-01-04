@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260104035934 +0800">
+<tv date="20260104105602 +0800">
 	<channel id="CCTV-10">
 		<display-name lang="zh">CCTV-10</display-name>
 	</channel>
@@ -20616,6 +20616,36 @@
 	<programme channel="纯享4K" start="20260104100000 +0800" stop="20260104104000 +0800">
 		<title lang="zh">探索b7发现4K 沙堆烽的秘密</title>
 	</programme>
+	<programme channel="纯享4K" start="20260104104000 +0800" stop="20260104112000 +0800">
+		<title lang="zh">探索b7发现4K 金冠之谜</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104112000 +0800" stop="20260104113500 +0800">
+		<title lang="zh">艺术里的奥林匹克4K 油画b7拿板球棒的少年</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104113500 +0800" stop="20260104121600 +0800">
+		<title lang="zh">远方的家4K 行走山水间 探秘秦岭大熊猫</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104121600 +0800" stop="20260104125800 +0800">
+		<title lang="zh">远方的家4K 行走山水间 中轴线上看北京</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104125800 +0800" stop="20260104130400 +0800">
+		<title lang="zh">美丽中国自然4K 汗马系列 一叶知秋</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104130900 +0800" stop="20260104133700 +0800">
+		<title lang="zh">好吃客4K 绍兴</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104133700 +0800" stop="20260104142700 +0800">
+		<title lang="zh">世界遗产漫步 大运河4K 第2集</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104142700 +0800" stop="20260104151200 +0800">
+		<title lang="zh">传承b7智慧篇4K 第4集 火候之彩</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104151200 +0800" stop="20260104155200 +0800">
+		<title lang="zh">荣宝斋4K 第1集 荣重书林</title>
+	</programme>
+	<programme channel="纯享4K" start="20260104155700 +0800" stop="20260104162500 +0800">
+		<title lang="zh">记住乡愁——门楣之上4K 东山何氏——一片丹心照古今</title>
+	</programme>
 	<channel id="翡翠台">
 		<display-name lang="zh">翡翠台</display-name>
 	</channel>
@@ -24011,6 +24041,12 @@
 	</programme>
 	<programme channel="黑莓动画" start="20260104102900 +0800" stop="20260104122000 +0800">
 		<title lang="zh">火影忍者剧场版：终章</title>
+	</programme>
+	<programme channel="黑莓动画" start="20260104122000 +0800" stop="20260104134200 +0800">
+		<title lang="zh">神奇乐园历险记（普通话版）</title>
+	</programme>
+	<programme channel="黑莓动画" start="20260104134200 +0800" stop="20260104183000 +0800">
+		<title lang="zh">01_一人之下第二季</title>
 	</programme>
 	<channel id="黑龙江卫视">
 		<display-name lang="zh">黑龙江卫视</display-name>
