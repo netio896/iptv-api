@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260218225857 +0800">
+<tv date="20260219111002 +0800">
 	<channel id="CCTV-10">
 		<display-name lang="zh">CCTV-10</display-name>
 	</channel>
@@ -21277,7 +21277,7 @@
 		<display-name lang="zh">嘉佳卡通</display-name>
 	</channel>
 	<programme channel="嘉佳卡通" start="20260219000000 +0800" stop="20260219000300 +0800">
-		<title lang="zh">奶龙搞怪大作战Ⅱ(39)</title>
+		<title lang="zh">开始</title>
 	</programme>
 	<programme channel="嘉佳卡通" start="20260219000300 +0800" stop="20260219001500 +0800">
 		<title lang="zh">喜羊羊狂野新宇宙(51)</title>
